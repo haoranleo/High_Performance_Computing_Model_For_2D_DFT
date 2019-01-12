@@ -24,4 +24,6 @@ p31~p34 usage:
 ```
 ./p31 forward/reverse [Inputfile][Outputfile]
 ```
-ex: **./p31 forward Tower256.txt Output256.txt** will perform 2 2D DFT using Tower256.txt as input and producing an output file named Output256.txt.
+example: 
+
+**./p31 forward Tower256.txt Output256.txt** will perform 2 2D DFT using Tower256.txt as input and producing an output file named Output256.txt.
