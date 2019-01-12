@@ -2,7 +2,7 @@
 
 To implement different computing method to solve matrix computing problem - 2D DFT efficiently.
 
-See project description: [Project Description](/FinalProject.pdf)
+See project description: [Project Description](./FinalProject.pdf)
 
 ## File list
 p31: C++ thread - DFT
