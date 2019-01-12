@@ -1,0 +1,1 @@
+/usr/local/pacerepov1/cuda/9.1/bin/nvcc   -Xcompiler=-fPIC -Wno-deprecated-gpu-targets -shared -dlink CMakeFiles/p33.dir/p33/main.cu.o CMakeFiles/p33.dir/p33/input_image.cc.o CMakeFiles/p33.dir/p33/complex.cc.o -o CMakeFiles/p33.dir/cmake_device_link.o  -L/usr/local/pacerepov1/cuda/9.1/lib64/stubs 

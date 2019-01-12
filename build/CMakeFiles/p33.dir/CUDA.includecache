@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/nv/coc-ice/hli656/final_testCmake/p33/complex.h
+iostream
+-
+
+/nv/coc-ice/hli656/final_testCmake/p33/input_image.h
+
+/nv/coc-ice/hli656/final_testCmake/p33/main.cu
+iostream
+-
+cmath
+-
+time.h
+-
+string
+-
+chrono
+-
+stdlib.h
+-
+unistd.h
+-
+cuda.h
+-
+cuda_runtime_api.h
+-
+complex.h
+/nv/coc-ice/hli656/final_testCmake/p33/complex.h
+input_image.h
+/nv/coc-ice/hli656/final_testCmake/p33/input_image.h
+

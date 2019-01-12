@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/nv/coc-ice/hli656/final_testCmake/p33/complex.cc
+complex.h
+/nv/coc-ice/hli656/final_testCmake/p33/complex.h
+cmath
+-
+
+/nv/coc-ice/hli656/final_testCmake/p33/complex.h
+iostream
+-
+
+/nv/coc-ice/hli656/final_testCmake/p33/input_image.cc
+input_image.h
+/nv/coc-ice/hli656/final_testCmake/p33/input_image.h
+complex.h
+/nv/coc-ice/hli656/final_testCmake/p33/complex.h
+fstream
+-
+sstream
+-
+iostream
+-
+
+/nv/coc-ice/hli656/final_testCmake/p33/input_image.h
+
