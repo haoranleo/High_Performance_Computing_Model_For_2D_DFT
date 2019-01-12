@@ -1,5 +1,7 @@
-## Group member: 
-Zhuo Sheng Chin (zchin7), Xuncheng Zhou (xzhou364), Xiao Yang (xyang408), Haoran Li (hli656), Yingqiao Zheng (yzheng394)
+## ECE 6122 Final Project
+
+To implement different computing method to solve matrix computing problem - 2D DFT efficiently.
+See project description: 
 
 ## File list
 p31: C++ thread - DFT
@@ -13,8 +15,3 @@ p34: C++ thread - FFT
 	cmake ..
 	make
 ```
-
-## Work Division:
-Zhuo Sheng Chin - p31 & p34
-Xuncheng Zhou & Xiao Yang - p32
-Haoran Li & Yingqiao Zheng - p33
