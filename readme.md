@@ -20,10 +20,8 @@ Use following command, and four executable file (p31, p32, p33, p34) will be gen
 	cmake ..
 	make
 ```
-
-
 p31~p34 usage:
 ```
 ./p31 forward/reverse [Inputfile][Outputfile]
 ```
-ex: *./p31 forward Tower256.txt Output256.txt* will perform 2 2D DFT using Tower256.txt as input and producing an output file named Output256.txt
+ex: **./p31 forward Tower256.txt Output256.txt** will perform 2 2D DFT using Tower256.txt as input and producing an output file named Output256.txt.
